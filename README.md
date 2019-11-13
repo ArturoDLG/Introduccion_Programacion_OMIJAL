@@ -10,6 +10,7 @@ El propósito del taller es el adentrar a los asistentes del taller a la program
 ___
 * Sesión 1: Algoritmos
 * Sesión 2: Introducción a C++
+* Sesión 3: Condicionales en C++
 
 # Que encontraras aquí?
 ___

@@ -3,6 +3,7 @@
 using namespace std;
 
 int main(){
+	//comparacion de caracteres
 	char letra = 'O';
 	string palabra = "OMIJAL";
 	if(letra == palabra[0]){ //comparar caracteres
@@ -16,7 +17,7 @@ int main(){
     	cout << "la letra es menor" << endl;
 	} 
 	
-	
+	//comparacion de palabras
 	string palabra1 = "manzana verde";
 	string palabra2 = "manzana roja";
 	/*compare(): 

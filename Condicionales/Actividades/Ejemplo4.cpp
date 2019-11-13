@@ -9,6 +9,7 @@ int main(){
 	if(today == 20){
     	cout << "Hoy 20 de noviembre es aniversario de la Revolucion Mexicana" << endl;
 	}
+	
 	//doble
 	bool hay_camion = false;
 	if(hay_camion){
@@ -17,6 +18,7 @@ int main(){
 	else{
     	cout << "Suerte para la proxima" << endl;
 	}
+	
 	//multiple
 	char operacion;
 	int n1, n2;
@@ -35,6 +37,7 @@ int main(){
 	    cout << n1 << " / " << n2 << " = "<< n1 / n2 << endl;    
 	else
 	    cout << "Operacion no valida" << endl;
+	
 	//anidadas	
 	int numero;
 	cin >> numero;
